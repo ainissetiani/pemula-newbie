@@ -8,3 +8,4 @@ Original file is located at
 """
 
 print('Halo Rek !')
+print('Belajar AI')
